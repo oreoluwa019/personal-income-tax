@@ -16,6 +16,11 @@ It then calculates and displays the total tax based on the correct marginal tax 
 - 2 – Married Filing Separately
 - 3 – Head of Household
 
+- 4. Follow the prompts on the screen
+
+## Author
+Oreoluwa
+
 ## How to Run the Program
 1. Make sure Python 3 is installed
 2. Open a terminal or command prompt
